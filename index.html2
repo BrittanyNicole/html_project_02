@@ -3,32 +3,47 @@
 <head>
 <style>
 body {
-    background-color: #d0e4fe;
+    background-color: #65DAC6;
 }
 h1 {
-    color: Black;
+  color:Black;
     text-align: Center;
 }
 p {
     font-family: "Times New Roman";
-    font-size: 20px;
+    font-size: 25px;
+    text-align: Center;
+}
+a {
+  font-size: 25px;
+  text-align: Left;
+}
+ul {
+  font-size: 25px;
+  text-align: Left;
 }
 </style>
 </head>
 <body>
-  <title>Huskys</title>
+  <title>Huskies</title>
 </head>
   <body>
-    <h1>This Website Is About The Differnt Types Of Huskys</h1>
-  <p></p>
+    <h1>This website is about four differnt types of huskies !</h1>
+  <p><b>There is info about each of the four huskies and a link to a cute video of them.</b></p>
   <a href="https://www.youtube.com/watch?v=z_O43RQzBbg">Top Ten Cute Huskey</a>
 <ul>
-  <li>Gaint Malamute Husky</li>
-  <li>Alaskan Malamute</li>
-  <li>Siberian Husky</li>
+  <li><i>Gaint Malamute Husky</i></li>
+  <p>The Inuit's giant 'sled dogs' were as tall as 35" and weighed over 190lbs. These giant Malamutes were known to be the largest and strongest sled pullers and pack animals.</p>
+  <img src= "https://s-media-cache-ak0.pinimg.com/236x/6e/fb/b6/6efbb61afe1972fd1555dacd6009b12d.jpg" alt="Giant Husky" width="180" height="187">
+  <li><i>Alaskan Malamute</i></li>
+  <p>The Alaskan Malamute features a powerful, sturdy body built for stamina and strength. It reigns as one of the oldest dog breeds whose original looks have not been significantly altered. This intelligent canine needs a job and consistent leadership to avoid becoming bored or challenging to handle.</p>
+  <img src= "http://a-z-animals.com/media/animals/images/470x370/alaskan_malamute6.jpg" alt="Alaskan Husky" width="180" height="187">
+  <li><i>Siberian Husky</i></li>
+  <p>Siberian Huskies are strong, compact, working sled dogs. The medium-sized head is in proportion to the body, with a muzzle that is equal in length to the skull, with a well-defined stop</p>
+  <img src= "http://www.yourpurebredpuppy.com/dogbreeds/photos-RS/siberianhuskies2.jpg" alt="Siberian Husky" width="180" height="187">
+  <li><i>Labrador Husky</i></li>
+  <p>Labrador Huskies have a combination of strength, intelligence and stamina, properties that are good for virtually any breed. They are not as fast as their<br>Siberian or Alaskan cousins because they have been bred for endurance and strength.</p>
+  <img src= "http://cdn.greatdogsite.com/admin/uploaded_files/1198056154labrador_husky.jpg" alt="Labrador Husky" width="180" height="187">
 </ul>
-<img src= "http://www.yourpurebredpuppy.com/dogbreeds/photos-RS/siberianhuskies2.jpg">
-<img src= "http://a-z-animals.com/media/animals/images/470x370/alaskan_malamute6.jpg">
-<img src= "https://s-media-cache-ak0.pinimg.com/236x/6e/fb/b6/6efbb61afe1972fd1555dacd6009b12d.jpg"
 </body>
 </html>
